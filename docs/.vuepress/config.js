@@ -1,6 +1,7 @@
 module.exports = {
     title: "Charlie Shou",
     description: "Charlie Shou",
+    base: "/website/",
     themeConfig: {
         search: false,
         nav: [
