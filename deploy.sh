@@ -7,7 +7,7 @@ cd docs/.vuepress/dist
 git init
 git add -A
 git commit -m 'deploy'
-git remote add origin git@github.com:charshou/website.git
+git remote add origin git@github.com:charshou/charshou.github.io.git
 git branch -M main
-git push -f git@github.com:charshou/website.git main:gh-pages
+git push -f git@github.com:charshou/charshou.github.io.git main
 cd -
