@@ -1,7 +1,12 @@
 <template>
-    <p>
-        {{experience.name}}
-    </p>
+    <div>
+        <p>
+            {{experience.name}}
+        </p>
+        <p>
+            {{experience.summary}}
+        </p>
+    </div>
 </template>
 
 <script>
