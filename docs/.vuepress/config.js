@@ -1,5 +1,5 @@
 module.exports = {
-    title: "Charlie Shou",
+    title: "Charlie Shou (in progress)",
     description: "Charlie Shou",
     themeConfig: {
         search: false,
