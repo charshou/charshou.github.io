@@ -32,17 +32,30 @@ export const experiences = [
         ]
     },
     {
-        name: "Tassel Software",
-        location: "San Francisco, CA",
-        industry: "Education",
+        name: "Precise Software Solutions",
+        location: "Rockville, MD",
+        industry: "Information Technology Consulting",
         roles: [
             {
-                title: "Project Developer (PlexTech)",
-                start: "September 2021",
-                end: "December 2021",
+                title: "Software Engineer Intern",
+                start: "June 2021",
+                end: "August 2021",
                 description: [
-                    "Developed backend API from scratch to add messenging features to connect instructors and students",
-                    "Used Express, mySQL, Sequelize, and Nylas"
+                    "Developed a low-cost, scalable food traceability software to track food through the stages of the supply chain",
+                    "Designed backend to transform XML/JSON GS1 data, interface with Neo4j, and facilitate user interactions",
+                    "Recognized as one of the winners of FDA's Food Traceability Challenge",
+                    "Used Flask, Neo4j, MongoDB, and React"
+                ]
+            },
+            {
+                title: "Software Engineer Intern",
+                start: "May 2020",
+                end: "August 2020",
+                description: [
+                    "Worked to build the foundation of the counterfeit drug detection project",
+                    "Built web app to utilize Google AutoML and OCC analysis techniques and performed backend integrations",
+                    "Recognized with Incubator Award for innovations not yet in production by ACT-IAC",
+                    "Used Firebase, Flask, React, and Google Cloud Platform"
                 ]
             }
         ]
@@ -76,30 +89,17 @@ export const experiences = [
         ]
     },
     {
-        name: "Precise Software Solutions",
-        location: "Rockville, MD",
-        industry: "Information Technology Consulting",
+        name: "Tassel Software",
+        location: "San Francisco, CA",
+        industry: "Education",
         roles: [
             {
-                title: "Software Engineer Intern",
-                start: "June 2021",
-                end: "August 2021",
+                title: "Project Developer (PlexTech)",
+                start: "September 2021",
+                end: "December 2021",
                 description: [
-                    "Developed a low-cost, scalable food traceability software to track food through the stages of the supply chain",
-                    "Designed backend to transform XML/JSON GS1 data, interface with Neo4j, and facilitate user interactions",
-                    "Recognized as one of the winners of FDA's Food Traceability Challenge",
-                    "Used Flask, Neo4j, MongoDB, and React"
-                ]
-            },
-            {
-                title: "Software Engineer Intern",
-                start: "May 2020",
-                end: "August 2020",
-                description: [
-                    "Worked to build the foundation of the counterfeit drug detection project",
-                    "Built web app to utilize Google AutoML and OCC analysis techniques and performed backend integrations",
-                    "Recognized with Incubator Award for innovations not yet in production by ACT-IAC",
-                    "Used Firebase, Flask, React, and Google Cloud Platform"
+                    "Developed backend API from scratch to add messenging features to connect instructors and students",
+                    "Used Express, mySQL, Sequelize, and Nylas"
                 ]
             }
         ]
