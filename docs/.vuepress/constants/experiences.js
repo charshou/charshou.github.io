@@ -6,9 +6,9 @@ export const experiences = [
         roles: [
             {
                 title: "Software Engineer Intern",
-                start: "May 2022",
+                start: "2022",
                 description: [
-                    "Incoming intern for summer of 2022",
+                    "Incoming intern",
                 ]
             }
         ]
