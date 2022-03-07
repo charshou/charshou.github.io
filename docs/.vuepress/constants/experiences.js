@@ -1,14 +1,14 @@
 export const experiences = [
     {
-        name: "Chevron",
-        location: "San Ramon, CA",
-        industry: "Oil and Energy",
+        name: "Amazon",
+        location: "Seattle, WA",
+        industry: "E-commerce",
         roles: [
             {
-                title: "Software Engineer Intern",
-                start: "2022",
+                title: "Software Development Engineer Intern",
+                start: "May 2022",
                 description: [
-                    "Incoming intern",
+                    "Incoming intern for summer of 2022",
                 ]
             }
         ]
